@@ -30,7 +30,6 @@ req = requests.Session()
 logging.basicConfig(format="%(message)s", level=logging.INFO)
 clear = (lambda: subprocess.call(["clear"]))
 
-
 def waktu(second):
 	while second:
 		mins,secs = divmod(second,60)

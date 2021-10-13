@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# Author : Kingtebe
+# Jangan lupa follow my github https://github.com/Musk-ID
 import os,sys,re,json,random,logging,subprocess
 try:
 	import requests

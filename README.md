@@ -28,5 +28,4 @@ Script bot python Claim Bitcoin dengan termux
 > cd Claim-BTC
 > python bot.py
 ```
-Berburu BTC Biar Jadi Sultan (daftar kuy)[https://xauusd.biz/?ref=15275]
-
+Berburu btc biar jadi sultan [daftar kuy](https://xauusd.biz/?ref=15275)

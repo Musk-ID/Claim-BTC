@@ -19,14 +19,14 @@ Script bot python Claim Bitcoin dengan termux
 
 ##### Instalasi
 ```bash
-> $ pkg update && pkg upgrade
-> $pkg install git
-> $ pkg install python
-> $ pip install requests
-> $ pip install bs4
-> $ git clone https://github.com/Musk-ID/Claim-BTC
-> $ cd Claim-BTC
-> $ python bot.py
+> pkg update && pkg upgrade
+> pkg install git
+> pkg install python
+> pip install requests
+> pip install bs4
+> git clone https://github.com/Musk-ID/Claim-BTC
+> cd Claim-BTC
+> python bot.py
 ```
 
 

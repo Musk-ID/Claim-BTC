@@ -91,7 +91,7 @@ def _main():
 				logging.info(f"  {m}▶ {p}Sorry bro, Failed claim {m}!\n")
 				exit()
 			else:
-				logging.info(f"  {m}▶ {h}Successful claim! {p}••{m}> {p}Now {q}[ {c}{find_element[7].text} {q}]");waktu(60)
+				logging.info(f"  {m}▶ {h}Successful claim! {p}••{m}> {p}Now {q}[ {c}{find_element[7].text} {q}]");waktu(60*5)
 	except IndexError:
 		sleep(1.6)
 		exit(f"\n  {c}~{c}> {p}Username/E-Mail or Password is incorrect {m}!\n")
